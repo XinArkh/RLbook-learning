@@ -1,6 +1,6 @@
 # RLbook learning
 
-My implementation of examples and exercises of *Reinforcement learning: An Introduction* by Richard S. Sutton and Andrew G. Barto.
+My implementation of examples and exercises of *Reinforcement Learning: An Introduction* by Richard S. Sutton and Andrew G. Barto.
 
 # References
 
