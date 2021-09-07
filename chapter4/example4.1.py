@@ -1,3 +1,8 @@
+'''
+The idea of Gridworld class refers to:
+[MatthewJA/Inverse-Reinforcement-Learning](https://github.com/MatthewJA/Inverse-Reinforcement-Learning)
+'''
+
 import numpy as np
 
 
